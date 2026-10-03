@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://kokuwabara-genkijuku.github.io/sitemap-index.xml
